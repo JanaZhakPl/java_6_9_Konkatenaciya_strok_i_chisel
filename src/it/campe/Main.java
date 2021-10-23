@@ -6,8 +6,7 @@ public class Main {
         int x = 2;
         int y = 4;
         int z = 0;
-
-        String digits = ""; //напишите тут ваш код
+        String digits = "" + (x+y) + z; //напишите тут ваш код
 
         System.out.println(digits);
     }
